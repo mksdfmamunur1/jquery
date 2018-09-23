@@ -1,0 +1,56 @@
+body{
+	padding: 30px 50px;
+}
+#btn{
+    background: maroon;
+    color: oldlace;
+    padding: 10px;
+}
+.cls{
+	margin-top: 20px;
+    width:150px;
+    height: 100px;
+    background: orangered;
+}
+.btn_custom{
+        background-color: yellow;
+        color:black;
+        padding:10px;
+}
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;}
+#panel {
+    padding: 50px;
+    display: none;
+}
+.odd{
+    background: orange;
+    padding: 10px;
+}
+.even{
+    background: skyblue;
+    padding: 10px;
+}
+
+.first{
+    background: #b2dba1;
+    padding: 10px;
+}
+.last{
+    background: #f2dede;
+    padding: 10px;
+}
+.nth{
+    background: maroon;
+    color: oldlace;
+    padding: 10px;
+}
+.fn{
+    border: 2px solid red;
+}
+
+
+
